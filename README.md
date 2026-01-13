@@ -4,13 +4,7 @@ Welcome to my Web3 security research journey! This repository serves as a person
 
 * [X (Twitter)](https://x.com/4lifemen)
 * [LinkedIn](https://www.linkedin.com/in/limhonghan/)
-
-## 📌 What You'll Find Here
-
-* Detailed breakdowns of past auditing contests
-* Key vulnerabilities discovered and how they were mitigated
-* Lessons learned from each experience
-* Resources and tools that helped along the way
+* [My journey](https://github.com/honghan-dev/web3-security-journey). Links to all my past audit contest and learning.
 
 ## 📊 My Results
 
